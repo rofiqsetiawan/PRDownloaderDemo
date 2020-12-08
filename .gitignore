@@ -1,0 +1,9 @@
+.idea
+.vs
+bin
+debug\.log
+GPUCache
+MigrationBackup
+obj
+packages
+Resource\.designer\.cs
